@@ -3,3 +3,4 @@ run trivy
 run trivy
 trigger trivy
 trigger trivy
+run trivy scan
